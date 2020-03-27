@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'siteen' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'siteen_admin' );
+define( 'DB_USER', 'Siteen' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'AmRS88CIamLo' );
+define( 'DB_PASSWORD', '1234' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );
